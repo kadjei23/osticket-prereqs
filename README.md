@@ -23,6 +23,7 @@ This tutorial goes over the prerequisites and installation of the open-source he
 - VC redist x86.exe.
 - MySQL 5.5.62
 - HeidiSQL
+- osTicket
 
 <h2>Installation Steps</h2>
 

@@ -38,7 +38,7 @@ First you want to go ahead and create a resource group that way you can put your
 <img src="https://i.imgur.com/b024LVS.png" height="80%" width="80%" alt="Installation Files"/>
 </p>
 <p>
-Getting started Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+Getting started now we are going to be using all the prereqruisites above to make sure things run smoothly. Now that you have these we then go ahead and go to the control panel and type in IIS (Internet Information Services). By clicking that it will refer us to programs, then under programs and features we click turn windows feature on and off. That is going to open up a file named windows features, with that we find and check Internet Information Services, expand that same folder and expand the world wide web services. Open up application and development features and make sure we check CGI, after that's checked collapse that and expand common HTTP features and make sure all the folders under that are checked and and hit the okay button. Doing this will install the web server that osTicket runs on.
 
   <img src="https://i.imgur.com/3tr7UXW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 

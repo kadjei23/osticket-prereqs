@@ -105,7 +105,7 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
  <img src="https://i.imgur.com/1V3i1vx.png" height="80%" width="80%" alt="Everyone"/>
 
  Then add Permissions and give everyone full control
- <img src="https://i.imgur.com/1V3i1vx.png" height="80%" width="80%" alt="Everyone"/>
+ <img src="https://i.imgur.com/S4Q48ui.png" height="80%" width="80%" alt="Full control"/>
  
  
  

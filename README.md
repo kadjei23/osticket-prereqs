@@ -112,6 +112,7 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
 
  Install last prereqruisite Heidi SQL
  <img src="https://i.imgur.com/vney3BU.png" height="80%" width="80%" alt="HeidiSQL"/>
+ <img src="https://i.imgur.com/9rOdeKn.png" height="80%" width="80%" alt="HeidiSQL"/>
  
  
  

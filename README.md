@@ -83,11 +83,9 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
 
  click 3 buttons on the right go to the PHP directory that was created then click php-cgi and open. Proceed to reload/restart IIS 
  <img src="https://i.imgur.com/RpPdseT.png" height="80%" width="80%" alt="PHP Manager"/>
-
- After that's complete reload IIS
  <img src="https://i.imgur.com/OHM41YO.png" height="80%" width="80%" alt="Restart IIS"/>
  
- <
+ 
  
 </p>
 <br />

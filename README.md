@@ -55,9 +55,9 @@ Followed by installing the Rewrite Module.
 
  After completion install PHP 7.3.8 and unzip file to the directory C:\PHP
 
-  <img src="https://i.imgur.com/3tr7UXW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  <img src="https://i.imgur.com/UuPlOt3.png" height="80%" width="80%" alt="PHP 7.3.8"/> 
 
-  <img src="https://i.imgur.com/3tr7UXW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  <img src="https://i.imgur.com/H7zcvjF.png" height="80%" width="80%" alt="Directory"/> 
 
 </p>
 <br />

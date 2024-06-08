@@ -28,7 +28,7 @@ This tutorial goes over the prerequisites and installation of the open-source he
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/wmkCFdJ.png" height="80%" width="80%" alt="RG-VM Creation"/>
+<img src="https://i.imgur.com/3tr7UXW.png" height="80%" width="80%" alt="RG-VM Creation"/>
 </p>
 <p>
 First you want to go ahead and create a resource group that way you can put your virtual machine inside that.

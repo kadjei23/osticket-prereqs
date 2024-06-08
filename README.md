@@ -39,6 +39,7 @@ First you want to go ahead and create a resource group that way you can put your
 </p>
 <p>
 Getting started now we are going to be using all the prereqruisites above to make sure things run smoothly. Now that you have these we then go ahead and go to the control panel and type in IIS (Internet Information Services). By clicking that it will refer us to programs, then under programs and features we click turn windows feature on and off. That is going to open up a file named windows features, with that we find and check Internet Information Services, expand that same folder and expand the world wide web services. Open up application and development features and make sure we check CGI, after that's checked collapse that and expand common HTTP features and make sure all the folders under that are checked and and hit the okay button.
+<img src="https://i.imgur.com/WWnBfqZ.png" height="80%" width="80%" alt="Windows feature off"/> 
  <img src="https://i.imgur.com/cqX5UaO.png" height="80%" width="80%" alt="Check CGI"/> 
  <img src="https://i.imgur.com/79xAete.png" height="80%" width="80%" alt="HTTPS"/> 
  

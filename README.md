@@ -60,8 +60,7 @@ Followed by installing the Rewrite Module.
   <img src="https://i.imgur.com/H7zcvjF.png" height="80%" width="80%" alt="Directory"/> 
 
 After that download and install VC redist x86.exe.
-  
- <img src="https://i.imgur.com/U4ltR1z.png" height="80%" width="80%" alt="Redist86"/
+  <img src="https://i.imgur.com/H7zcvjF.png" height="80%" width="80%" alt="Directory"/> 
 
 </p>
 <br />

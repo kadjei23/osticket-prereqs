@@ -106,6 +106,10 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
 
  Then add Permissions and give everyone full control
  <img src="https://i.imgur.com/S4Q48ui.png" height="80%" width="80%" alt="Full control"/>
+
+ Continue in browser with osTicket installation choose whichever name and password for Help desk and admin user
+ <img src="https://i.imgur.com/OfwXNXn.png" height="80%" width="80%" alt="Name-setup"/>
+ 
  
  
  

@@ -97,6 +97,8 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
  <img src="https://i.imgur.com/2d8Qmmm.png" height="80%" width="80%" alt="Enable Ext"/>
  <img src="https://i.imgur.com/7Ca8obX.png" height="80%" width="80%" alt="Ext. Enabled"/>
  <img src="https://i.imgur.com/GDgyZUk.png" height="80%" width="80%" alt="Refresh"/>
+
+ Go back to wwwroot folder inside inetpub, click on osTicket>include and rename ost-sampleconfig.php to ost-config.php
  
  
  

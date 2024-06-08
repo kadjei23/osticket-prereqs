@@ -53,6 +53,8 @@ Getting started now we are going to be using all the prereqruisites above to mak
 Followed by installing the Rewrite Module.
  <img src="https://i.imgur.com/FLlTLlO.png" height="80%" width="80%" alt="Rewrite Module"/> 
 
+ After completion install PHP 7.3.8 and unzip file to the directory C:\PHP
+
   <img src="https://i.imgur.com/3tr7UXW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
   <img src="https://i.imgur.com/3tr7UXW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 

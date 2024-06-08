@@ -92,7 +92,11 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
  Next go to sites>default web site> osTicket. On the right hand side click Bowse.80 which brings you into the osTicket Setup page.
  <img src="https://i.imgur.com/7Ca8obX.png" height="80%" width="80%" alt="Browse.80"/>
  <img src="https://i.imgur.com/B8VzkKN.png" height="80%" width="80%" alt="osTicket setup"/>
- 
+
+ Some features may be marked with a red X once u come on the install page but ypu can easily go back to IIS>Default>osTicket and double click PHP manager and go to enable or disable extension. Enable php_imap.dll, php_intl.dll, php_opache.dll. Refresh osTicket installer in the browser and some features marked with a red x will be a green check.
+ <img src="https://i.imgur.com/7Ca8obX.png" height="80%" width="80%" alt="Browse.80"/>
+ <img src="https://i.imgur.com/7Ca8obX.png" height="80%" width="80%" alt="Browse.80"/>
+ <img src="https://i.imgur.com/7Ca8obX.png" height="80%" width="80%" alt="Browse.80"/>
  
  
  

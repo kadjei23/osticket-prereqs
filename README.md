@@ -63,6 +63,8 @@ After that download and install VC redist x86.exe. and the mySQL 5.5.62
   <img src="https://i.imgur.com/U4ltR1z.png" height="80%" width="80%" alt="Redist"/> 
   <img src="https://i.imgur.com/lobEYlf.png" height="80%" width="80%" alt="mySQL 5.5.62"/>
  <img src="https://i.imgur.com/hyN4WkB.png" height="80%" width="80%" alt="Next"/>
+
+
 After hitting next on mySQL installation we want to hit Typical setup type and install
 <img src="https://i.imgur.com/GlnXka3.png" height="80%" width="80%" alt="Typical"/>
  <img src="https://i.imgur.com/lobEYlf.png" height="80%" width="80%" alt="mySQL 5.5.62"/>

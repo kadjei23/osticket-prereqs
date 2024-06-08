@@ -98,7 +98,15 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
  <img src="https://i.imgur.com/7Ca8obX.png" height="80%" width="80%" alt="Ext. Enabled"/>
  <img src="https://i.imgur.com/GDgyZUk.png" height="80%" width="80%" alt="Refresh"/>
 
- Go back to wwwroot folder inside inetpub, click on osTicket>include and rename ost-sampleconfig.php to ost-config.php
+ Go back to wwwroot folder inside inetpub, click on osTicket>include and rename ost-sampleconfig.php to ost-config.php. Following that right click on it and head to properties>security>advanced>disable inheritance>remove all permissions.
+ <img src="https://i.imgur.com/EK7nR6m.png" height="80%" width="80%" alt="Include"/>
+ <img src="https://i.imgur.com/0JzFXGR.png" height="80%" width="80%" alt="Rename"/>
+ <img src="https://i.imgur.com/yWBwZgA.png" height="80%" width="80%" alt="Disable"/>
+ <img src="https://i.imgur.com/1V3i1vx.png" height="80%" width="80%" alt="Everyone"/>
+
+ Then add Permissions and give everyone full control
+ <img src="https://i.imgur.com/1V3i1vx.png" height="80%" width="80%" alt="Everyone"/>
+ 
  
  
  

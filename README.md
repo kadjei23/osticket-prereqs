@@ -47,12 +47,11 @@ Getting started now we are going to be using all the prereqruisites above to mak
   Doing this will install the web server that osTicket runs on. To confirm this works you can search 127.0.0.0 and this will bring you to the main IIS default page down below.
 <img src="https://i.imgur.com/5pxwUyZ.png" height="80%" width="80%" alt="Check CGI"/>
   
-  Next step is to download and install PHP 7.3.8
-
-
-  <img src="https://i.imgur.com/3tr7UXW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
-  <img src="https://i.imgur.com/3tr7UXW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  Next step is to download and install the PHP Manager for IIS.
+ <img src="https://i.imgur.com/4dCReVf.png" height="80%" width="80%" alt="PHP Manager"/> 
+ 
+Followed by installing the Rewrite Module.
+ <img src="https://i.imgur.com/FLlTLlO.png" height="80%" width="80%" alt="Rewrite Module"/> 
 
   <img src="https://i.imgur.com/3tr7UXW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 

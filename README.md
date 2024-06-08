@@ -72,7 +72,12 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
  <img src="https://i.imgur.com/yPRTE7X.png" height="80%" width="80%" alt="Standard config"/>
  <img src="https://i.imgur.com/aNVQjlv.png" height="80%" width="80%" alt="root"/>
  <img src="https://i.imgur.com/mQBI8eL.png" height="80%" width="80%" alt="execute"/>
- <img src="https://i.imgur.com/lobEYlf.png" height="80%" width="80%" alt="mySQL 5.5.62"/>
+ Next open and run IIS as an administrator and register PHP within IIS. Double click PHP Manager and register new PHP version
+ <img src="https://i.imgur.com/sScTk5m.png" height="80%" width="80%" alt="PHP Manager"/>
+ <img src="https://i.imgur.com/Okr3iW3.png" height="80%" width="80%" alt="Register new PHP"/
+ <img src="https://i.imgur.com/lobEYlf.png" height="80%" width="80%" alt="mySQL 5.5.62"/
+ <img src="https://i.imgur.com/lobEYlf.png" height="80%" width="80%" alt="mySQL 5.5.62"/
+ <img src="https://i.imgur.com/lobEYlf.png" height="80%" width="80%" alt="mySQL 5.5.62"/
 </p>
 <br />
 

@@ -86,6 +86,7 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
  <img src="https://i.imgur.com/OHM41YO.png" height="80%" width="80%" alt="Restart IIS"/>
 
  Next downlod and install osTicket then extract and copy the upload folder to c:\inetpub\wwwroot, within that rename upload to osTicket.
+ <img src="https://i.imgur.com/Apxev2r.png" height="80%" width="80%" alt="Folde Copy"/>
  
  
  

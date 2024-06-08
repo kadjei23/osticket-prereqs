@@ -85,9 +85,14 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
  <img src="https://i.imgur.com/RpPdseT.png" height="80%" width="80%" alt="PHP-CGI"/>
  <img src="https://i.imgur.com/OHM41YO.png" height="80%" width="80%" alt="Restart IIS"/>
 
- Next downlod and install osTicket then extract and copy the upload folder to c:\inetpub\wwwroot, within that rename upload to osTicket.
+ Next downlod and install osTicket then extract and copy the upload folder to c:\inetpub\wwwroot, within that rename upload to osTicket. Then restart the server again.
  <img src="https://i.imgur.com/Apxev2r.png" height="80%" width="80%" alt="Folder Copy"/>
  <img src="https://i.imgur.com/JZw5XTp.png" height="80%" width="80%" alt="rename"/>
+
+ Next go to sites>default web site> osTicket. On the right hand side click Bowse.80 which brings you into the osTicket Setup page.
+ <img src="https://i.imgur.com/7Ca8obX.png" height="80%" width="80%" alt="Folder Copy"/>
+ <img src="https://i.imgur.com/Apxev2r.png" height="80%" width="80%" alt="Folder Copy"/>
+ 
  
  
  

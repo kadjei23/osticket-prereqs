@@ -109,6 +109,11 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
 
  Continue in browser with osTicket installation choose whichever name and password for Help desk and admin user
  <img src="https://i.imgur.com/OfwXNXn.png" height="80%" width="80%" alt="Name-setup"/>
+
+ Install last prereqruisite Heidi SQL
+ <img src="https://i.imgur.com/vney3BU.png" height="80%" width="80%" alt="HeidiSQL"/>
+ 
+ 
  
  
  

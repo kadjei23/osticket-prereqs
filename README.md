@@ -127,15 +127,18 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
  Hopefully it should've installed with no errors
  <img src="https://i.imgur.com/gBTVQfg.png" height="80%" width="80%" alt="Congrats"/>
  
+ Last few things. Delete the setup file in osTicket in the wwwroot folder
+ <img src="https://i.imgur.com/DMO19Rf.png" height="80%" width="80%" alt="Delete-setup"/>
+ 
+ Set permissions to read only in ost-config.php
+ <img src="https://i.imgur.com/sSlNaC4.png" height="80%" width="80%" alt="read only"/>
+ 
+
+  
  
  
  
- 
- 
- 
- 
- 
-</p>
+ </p>
 <br />
 
 <p>

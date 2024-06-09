@@ -147,7 +147,7 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket URL Links"/>
+<img src="https://i.imgur.com/HreY4mH.png" height="80%" width="80%" alt="URL Links"/> 
 </p>
 <p>
 URL Links to osTicket/help desk pages

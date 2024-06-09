@@ -123,6 +123,10 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
 
  Fill out Database settings on osTicket in browser and install
  <img src="https://i.imgur.com/cayOcDZ.png" height="80%" width="80%" alt="Install"/>
+
+ Hopefully it should've installed with no errors
+ <img src="https://i.imgur.com/gBTVQfg.png" height="80%" width="80%" alt="Congrats"/>
+ 
  
  
  

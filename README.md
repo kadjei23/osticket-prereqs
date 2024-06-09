@@ -138,6 +138,9 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
 
  Help Desk Interface
  <img src="https://i.imgur.com/I8ustlj.png" height="80%" width="80%" alt="Interface"/>
+
+ Client/Customer Interface
+<img src="https://i.imgur.com/MNpUS5Z.png" height="80%" width="80%" alt="Customer-client"/> 
  
 
  

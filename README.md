@@ -89,13 +89,13 @@ After hitting next on mySQL installation we want to hit Typical setup type and i
 Launch mySQL and setup credential. Standard configuration>Install as Windows Service>Modify Securtiy settings>enter root password(Make sure the password is something memorable)>execute.
 
  
- <img src="https://i.imgur.com/yPRTE7X.png" height="80%" width="80%" alt="Standard config"/>
+ <img src="https://i.imgur.com/9SbXrDz.png" height="80%" width="80%" alt="Standard config"/>
  
  
- <img src="https://i.imgur.com/aNVQjlv.png" height="80%" width="80%" alt="root"/>
+ <img src="https://i.imgur.com/5j0Z5dj.png" height="80%" width="80%" alt="root"/>
 
  
- <img src="https://i.imgur.com/mQBI8eL.png" height="80%" width="80%" alt="execute"/>
+ <img src="https://i.imgur.com/Iaul3v9.png" height="80%" width="80%" alt="execute"/>
  
  
  Next open and run IIS as an administrator and register PHP within IIS. Double click PHP Manager and register new PHP version

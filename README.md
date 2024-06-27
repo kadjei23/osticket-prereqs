@@ -67,6 +67,8 @@ Followed by installing the Rewrite Module.
 
  <img src="https://i.imgur.com/obue8jm.png" height="80%" width="80%" alt="PHP"/>
 
+ <img src="https://i.imgur.com/et26b5f.png" height="80%" width="80%" alt="PHP2"/>
+
 After that download and install VC redist x86.exe. and the mySQL 5.5.62
 
 

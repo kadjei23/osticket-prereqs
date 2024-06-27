@@ -84,7 +84,7 @@ After that download and install VC redist x86.exe. and the mySQL 5.5.62
 After hitting next on mySQL installation we want to hit Typical setup type and install
 
 
-<img src="https://i.imgur.com/GlnXka3.png" height="80%" width="80%" alt="Typical"/>
+<img src="https://i.imgur.com/Ff9JlL3.png" height="80%" width="80%" alt="Typical"/>
 
 Launch mySQL and setup credential. Standard configuration>Install as Windows Service>Modify Securtiy settings>enter root password(Make sure the password is something memorable)>execute.
 

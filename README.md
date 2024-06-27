@@ -65,10 +65,6 @@ Followed by installing the Rewrite Module.
 
  After completion install PHP 7.3.8 and unzip file to the directory C:\PHP
 
-  <img src="https://i.imgur.com/UuPlOt3.png" height="80%" width="80%" alt="PHP 7.3.8"/> 
-
-  <img src="https://i.imgur.com/H7zcvjF.png" height="80%" width="80%" alt="Directory"/> 
-
 After that download and install VC redist x86.exe. and the mySQL 5.5.62
 
 

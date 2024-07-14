@@ -178,8 +178,10 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
  <img src="https://i.imgur.com/lrhy9Kn.png" height="80%" width="80%" alt="Delete-setup"/>
  
  Set permissions to read only in ost-config.php
+
+ <img src="https://i.imgur.com/57ZVpKE.png" height="80%" width="80%" alt="Ost-config-properties"/>
  
- <img src="https://i.imgur.com/sSlNaC4.png" height="80%" width="80%" alt="read only"/>
+ <img src="https://i.imgur.com/1lmkOyx.png" height="80%" width="80%" alt="read only"/>
 
  Go to osTicket and click on your login URL and see if you get in.
  

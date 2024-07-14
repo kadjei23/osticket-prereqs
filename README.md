@@ -144,14 +144,16 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
  <img src="https://i.imgur.com/1V3i1vx.png" height="80%" width="80%" alt="Everyone"/>
 
  Then add Permissions and give everyone full control
+ 
  <img src="https://i.imgur.com/S4Q48ui.png" height="80%" width="80%" alt="Full control"/>
 
  Continue in browser with osTicket installation choose whichever name and password for Help desk and admin user
- <img src="https://i.imgur.com/OfwXNXn.png" height="80%" width="80%" alt="Name-setup"/>
+ 
+ <img src="https://i.imgur.com/Rn1xdSn.png" height="80%" width="80%" alt="Name-setup"/>
 
  Install last prereqruisite Heidi SQL which allows us to connect to the mySQL database we installed earlier.
- <img src="https://i.imgur.com/vney3BU.png" height="80%" width="80%" alt="HeidiSQL"/>
- <img src="https://i.imgur.com/9rOdeKn.png" height="80%" width="80%" alt="HeidiSQL"/>
+ 
+ <img src="https://i.imgur.com/hGPVjih.png" height="80%" width="80%" alt="HeidiSQL"/>
 
  Install everything and open Heidi SQL. Create new connection to database and type in root for user and whatver password you came up with earlier when installing mySQL.
  <img src="https://i.imgur.com/qkwvGuS.png" height="80%" width="80%" alt="HeidiSQL-New"/>

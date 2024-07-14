@@ -156,31 +156,41 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
  <img src="https://i.imgur.com/hGPVjih.png" height="80%" width="80%" alt="HeidiSQL"/>
 
  Install everything and open Heidi SQL. Create new connection to database and type in root for user and whatver password you came up with earlier when installing mySQL.
+ 
  <img src="https://i.imgur.com/qkwvGuS.png" height="80%" width="80%" alt="HeidiSQL-New"/>
 
  Click open and it should connect to the mySQL database server. Then Create a new database and name it osTicket
+ 
  <img src="https://i.imgur.com/AxQfdSV.png" height="80%" width="80%" alt="Create"/>
+ 
  <img src="https://i.imgur.com/kF968H9.png" height="80%" width="80%" alt="Database-connection"/>
 
  Fill out Database settings on osTicket in browser and install
+ 
  <img src="https://i.imgur.com/cayOcDZ.png" height="80%" width="80%" alt="Install"/>
 
  Hopefully it should've installed with no errors
+ 
  <img src="https://i.imgur.com/gBTVQfg.png" height="80%" width="80%" alt="Congrats"/>
  
  Last few things. Delete the setup file in osTicket in the wwwroot folder
+ 
  <img src="https://i.imgur.com/DMO19Rf.png" height="80%" width="80%" alt="Delete-setup"/>
  
  Set permissions to read only in ost-config.php
+ 
  <img src="https://i.imgur.com/sSlNaC4.png" height="80%" width="80%" alt="read only"/>
 
  Go to osTicket and click on your login URL and see if you get in.
+ 
  <img src="https://i.imgur.com/if7xftn.png" height="80%" width="80%" alt="Main"/>
 
  Help Desk Interface
+ 
  <img src="https://i.imgur.com/I8ustlj.png" height="80%" width="80%" alt="Interface"/>
 
  Client/Customer Interface
+ 
 <img src="https://i.imgur.com/MNpUS5Z.png" height="80%" width="80%" alt="Customer-client"/> 
  
 

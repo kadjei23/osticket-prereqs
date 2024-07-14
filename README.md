@@ -110,7 +110,7 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
  <img src="https://i.imgur.com/mr5WHFo.png" height="80%" width="80%" alt="PHP-CGI"/>
  
  
- <img src="https://i.imgur.com/OHM41YO.png" height="80%" width="80%" alt="Restart IIS"/>
+ <img src="https://i.imgur.com/9Ixgiq3.png" height="80%" width="80%" alt="Restart IIS"/>
 
  Next downlod and install osTicket then extract and copy the upload folder to c:\inetpub\wwwroot, within that rename upload to osTicket. Then restart the server again.
  

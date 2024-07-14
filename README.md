@@ -101,7 +101,7 @@ Launch mySQL and setup credential. Standard configuration>Install as Windows Ser
  Next open and run IIS as an administrator and register PHP within IIS. Double click PHP Manager and register new PHP version
 
  
- <img src="https://i.imgur.com/sScTk5m.Png" height="80%" width="80%" alt="PHP Manager"/>
+<img src="https://i.imgur.com/sScTk5m.png" height="80%" width="80%" alt="PHP Manager"/>
  
  
  <img src="https://i.imgur.com/Okr3iW3.png" height="80%" width="80%" alt="PHP Setup"/>
